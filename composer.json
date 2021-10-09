@@ -1,5 +1,5 @@
 {
-    "name": "binaryoung/jieba-php",
+    "name": "abbychau/jieba-php",
     "description": "The Jieba Chinese Word Segmentation Implemented in PHP",
     "keywords": [
         "jieba",
@@ -10,7 +10,7 @@
         "结巴",
         "分词"
     ],
-    "homepage": "https://github.com/binaryoung/jieba-php",
+    "homepage": "https://github.com/abbychau/jieba-php",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": ">=7.4",
         "ext-ffi": "*"
     },
     "require-dev": {
